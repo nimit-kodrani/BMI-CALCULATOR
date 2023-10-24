@@ -1,4 +1,4 @@
-package com.mdhasan.bmicalculator;
+package com.bmi.bmicalculator;
 
 import com.jfoenix.controls.JFXButton;
 import com.jfoenix.controls.JFXTextField;

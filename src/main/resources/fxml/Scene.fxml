@@ -8,7 +8,7 @@
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 
-<AnchorPane id="AnchorPane" prefHeight="394.0" prefWidth="366.0" style="-fx-background-color: #ffffff;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.mdhasan.bmicalculator.FXMLController">
+<AnchorPane id="AnchorPane" prefHeight="394.0" prefWidth="366.0" style="-fx-background-color: #ffffff;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.bmi.bmicalculator.FXMLController">
    <children>
       <Label fx:id="label" alignment="CENTER" layoutX="-3.0" prefHeight="69.0" prefWidth="366.0" textFill="WHITE">
          <font>
